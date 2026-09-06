@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "4",
+    "icon_name": "\u84dd\u8272\u5927\u80a5\u9c7c\u4e4b\u300cContext Error\u300d",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "\u84dd\u8272\u5927\u80a5\u9c7c\u4e4b\u300cContext Error\u300d",
+    "numeric_version": 1,
+    "orientation": "sensorLandscape",
+    "package": "com.x_neko.contexterror",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "none",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "1.0"
+}
